@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: ds
+Version: 0.0.3
+Summary: a package with simple data structures
+Home-page: https://github.com/inkoguto/ds
+Author: apawcenis
+Author-email: andrzej.pawcenis@gmail.com
+License: UNKNOWN
+Description: simple data structures
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
